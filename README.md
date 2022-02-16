@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OwenCorrigan76
-- 👀 I’m interested in Learning and contributing the tech community
+- 👀 I’m interested in Learning and contributing to the tech community
 - 🌱 I’m currently learning Python, Javascript, Java
 
 
